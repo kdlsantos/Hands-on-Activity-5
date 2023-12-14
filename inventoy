@@ -1,0 +1,6 @@
+[Ubuntu_serv]
+192.168.100.122 apache_package=apache2 php_package=libapache2-mod-php
+192.168.100.123 apache_package=apache2 php_package=libapache2-mod-php
+
+[CentOS_serv]
+192.168.100.124 apache_package=httpd php_package=php
